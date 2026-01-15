@@ -17,7 +17,7 @@ try {
   	var headingElement = '<t4 type="content" name="Heading" output="normal" modifiers="striptags,htmlentities" />';
      
     var middle = 'text/middle';
-    var contentTypes = [7274];
+    var contentTypes = [8080];
     conditions[0] = {
       'before':       'text/before',
       'after' :       'text/after',
